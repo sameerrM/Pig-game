@@ -1,2 +1,2 @@
 # Simple js game
-html/javascript pig game 
+html/javascript simple game 
